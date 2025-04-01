@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<usuario>
+    <id>1</id>
+    <nome>João Silva</nome>
+    <email>joao.silva@example.com</email>
+    <ativo>true</ativo>
+    <senha>aAS$#76</senha>
+    <apiSecret>"sk_test_4eC39HqLyjWDarjtT1zdp7dc"</apiSecret>
+    <permissoes>
+        <permissao>leitura</permissao>
+        <permissao>escrita</permissao>
+        <permissao>admin</permissao>
+    </permissoes>
+</usuario> 

@@ -1,0 +1,12 @@
+usuario:
+  id: 1
+  nome: João Silva
+  email: joao.silva@example.com
+  senha: aAS$#76
+  apiSecret: "sk_test_4eC39HqLyjWDarjtT1zdp7dc"
+  ativo: true
+  permissoes:
+    - leitura
+    - escrita
+    - admin
+    

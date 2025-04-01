@@ -1,0 +1,10 @@
+{
+  "usuario": {
+    "id": 1,
+    "nome": "João Silva",
+    "email": "joao.silva@example.com",
+    "ativo": true,
+    "permissoes": ["leitura", "escrita", "admin"],
+    "password": "X#$szdslo"
+  }
+} 
