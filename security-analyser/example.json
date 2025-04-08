@@ -5,6 +5,6 @@
     "email": "joao.silva@example.com",
     "ativo": true,
     "permissoes": ["leitura", "escrita", "admin"],
-    "password": "X#$szdslo"
+    "password": ""
   }
 } 
